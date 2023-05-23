@@ -1,0 +1,5 @@
+[user]
+	      name = cloud_user
+	      email = pavan.sss1991@gmail.com
+[core]
+	      editor = nvim
